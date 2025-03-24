@@ -107,5 +107,7 @@ plt.grid()
 plt.show()
 ```
 
-##Usage
+![Graph showing PINN based solution and Analytical solution](./solution_damped_equation.png)
+
+## Usage
 To run the code, simply execute the provided Jupyter notebook or Python script. Ensure that all dependencies are installed and that the necessary libraries are imported.
